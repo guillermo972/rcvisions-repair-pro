@@ -1,0 +1,9 @@
+{
+  "staffPin": "1234",
+  "taxRate": 0.0775,
+  "emailMode": "live",
+  "emailUser": "guillermo@rcvisions.com",
+  "emailPass": "zqee nhac ggjl jvpy",
+  "emailFrom": "RCvisions Repairs <admin@rcvisions.com>",
+  "publicUrl": "http://localhost:3000"
+}

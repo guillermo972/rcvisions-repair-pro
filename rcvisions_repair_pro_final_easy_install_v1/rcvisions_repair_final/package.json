@@ -1,0 +1,1 @@
+{"name":"rcvisions-repair-pro-final","version":"1.0.0","main":"server.js","scripts":{"start":"node server.js","install-deps":"npm install"},"dependencies":{"nodemailer":"^6.9.16"}}

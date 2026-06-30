@@ -1,0 +1,22 @@
+[
+  {
+    "customerName": "Guillermo Vargas",
+    "phone": "7149024076",
+    "email": "guillermo@rcvisions.com",
+    "brand": "",
+    "model": "",
+    "status": "Received",
+    "problem": "",
+    "notes": "",
+    "labor": 35,
+    "parts": [],
+    "ticket": "RCV-2026-0001",
+    "createdAt": "2026-06-30T00:15:23.874Z",
+    "updatedAt": "2026-06-30T00:17:16.297Z",
+    "partsTotal": 0,
+    "subtotal": 35,
+    "tax": 0,
+    "total": 35,
+    "paid": "no"
+  }
+]
